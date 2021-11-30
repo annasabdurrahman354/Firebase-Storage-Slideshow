@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "320503127367",
+    "project_id": "komputasi-grid",
+    "storage_bucket": "komputasi-grid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320503127367:android:dc0547eb85f7ba11944062",
+        "android_client_info": {
+          "package_name": "com.fakhry.komputasigrid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320503127367-mn12fu97hp1g3biv5iooqgoigv41hsl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEo_m35ebbayjVLuWi-8Lfz8zhjN7NuRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320503127367-mn12fu97hp1g3biv5iooqgoigv41hsl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320503127367:android:9b3e049df55960a4944062",
+        "android_client_info": {
+          "package_name": "com.komgrid.slideshow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320503127367-mn12fu97hp1g3biv5iooqgoigv41hsl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEo_m35ebbayjVLuWi-8Lfz8zhjN7NuRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320503127367-mn12fu97hp1g3biv5iooqgoigv41hsl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
